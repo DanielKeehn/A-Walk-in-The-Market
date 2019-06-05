@@ -11,9 +11,9 @@ This project can be run in two ways….
 
 ## How to Play
 ### Controls
-##### A or left arrows 
+##### A or Left Arrow 
 go left 
-#### D or right arrow 
+#### D or Right Arrow 
 go right 
 #### Left Shift 
 begin conversation with character 
