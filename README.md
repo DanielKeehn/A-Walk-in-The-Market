@@ -26,9 +26,14 @@ This game has one rule: complete four interactions as each player. This game las
 ### Multiple Playthroughs
 In order to experience all the dialogue in the game, a player must play this game multiple times. Each day, there are a total of 15 possible interactions, but a player only chooses 4 interactions. Therefore, you must meticulosity pick what character you want to interact with.
 
-## In-Game Images 
+## In-Game Images
+![](TitleScreen.png)
+![](InGameImage.png)
 
 ## Credits
-Luca Bonini created the dialogue for this game.
-JJ Stewart acquired the art assets for this game using/editing royalty free art
+### Luca Bonini 
+Wrote dialogue
+### JJ Stewart 
+Acquired the art assets for this game using/editing royalty free art
+### Music 
 The music used for this game is royalty free and can be found at https://www.youtube.com/watch?v=kCvKqZljhxE and https://www.youtube.com/watch?v=XgpxpTe5pus 
