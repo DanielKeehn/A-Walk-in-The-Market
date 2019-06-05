@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Floor Tile
+  - Coin
+  - Player
+  - Dialogue
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2402155087
+    locked: 0
+  - name: Floor Tile
+    uniqueID: 2987003609
+    locked: 0
+  - name: Coin
+    uniqueID: 3383212867
+    locked: 0
+  - name: Player
+    uniqueID: 1509614061
+    locked: 0
+  - name: Dialogue
+    uniqueID: 1201083193
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
