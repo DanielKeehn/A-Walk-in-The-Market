@@ -33,7 +33,7 @@ In order to experience all the dialogue in the game, a player must play this gam
 ## Credits
 ### Luca Bonini 
 Wrote dialogue
-### JJ Stewart 
+### JJ Stewart (https://github.com/jjstew35)
 Acquired the art assets for this game using/editing royalty free art
 ### Music 
 The music used for this game is royalty free and can be found at https://www.youtube.com/watch?v=kCvKqZljhxE and https://www.youtube.com/watch?v=XgpxpTe5pus 
